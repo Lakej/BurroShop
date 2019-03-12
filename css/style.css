@@ -6,7 +6,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 html, body{
     font-size: 100%;
-	background:	#fff;
+	background:	#6C1D45;
 	font-family:'Open Sans', sans-serif;
 }
 p{
@@ -43,7 +43,7 @@ input[type="submit"],.panel-body ul li a,.checkout-right-basket a,.additional_in
 }
 .w3l_logo h1 a{
 	font-size:1.1em;
-	color:#212121;
+	color:#ffffff;
 	text-decoration:none;
 }
 .w3l_logo h1 a span {
@@ -69,7 +69,7 @@ input[type="submit"],.panel-body ul li a,.checkout-right-basket a,.additional_in
 	top:1.3em;
 }
 a.act {
-    color:#ff5063 !important;
+    color:#6C1D45 !important;
 }
 /*-- search --*/
 .search{
@@ -439,7 +439,7 @@ ul.multi-column-dropdown h6 {
     letter-spacing: 2px;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-    color:#ff5063;
+    color:#6C1D45;
 }
 .navbar {
     margin-bottom: 0;
@@ -448,7 +448,7 @@ ul.multi-column-dropdown h6 {
 .navigation {
     margin: 2em 0 0;
 	text-align:center;
-	background:#3c43a4;
+	background:#FFFFFF;
 }
 .navbar-nav {
     float: none;
@@ -486,7 +486,7 @@ li.w3pages .dropdown-menu > li > a:hover{
 /*-- //navigation --*/
 /*-- banner --*/
 .banner{
-	background:url(../images/fondo.png) no-repeat center 0px; 
+	background:url(../images/bannerProt.jpg) no-repeat center 0px; 
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
