@@ -348,7 +348,7 @@ p.sbmincart-empty-text {
 /*-- //cart-css --*/ 
 /*-- navigation --*/
 .navbar-default .navbar-nav > li > a {
-    color: #fff;
+    color: #E4E4E4;
 	-webkit-transition:.5s all;
 	-moz-transition:.5s all; 
 	transition:.5s all;
@@ -501,7 +501,7 @@ li.w3pages .dropdown-menu > li > a:hover{
 	min-height:400px;
 }
 .banner1 h2,.banner10 h2{
-	color: #fff;
+	color: #000000;
     font-size: 3em;
     text-align: center;
     padding: 2.5em 0 0;
@@ -535,11 +535,11 @@ li.w3pages .dropdown-menu > li > a:hover{
 .banner h3{
 	font-size: 2em;
     color:#fff;
-    transform: rotate(-90deg);
+    /*transform: rotate(-90deg);
     -webkit-transform: rotate(-90deg);
     -moz-transform: rotate(-90deg);
     -o-transform: rotate(-90deg);
-    -ms-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);*/
     text-transform: uppercase;
     width: 45%;
     margin: 9em 0 0;
@@ -1481,7 +1481,7 @@ h2.resp-accordion {
 	margin:1em 0 0;
 }
 div#horizontalTab ul {
-    padding-bottom: 1.5em;
+    padding-bottom: 0.5em;
 }
 ::-webkit-input-placeholder{
 	color:#212121 !important;
@@ -1634,7 +1634,7 @@ h3.other-nw {
 	font-size:14px;
 }
 .breadcrumb_dress ul li a{
-	color:#3c43a4;
+	color:#6C1D45;
 	text-decoration:none;
 }
 .breadcrumb_dress ul li a:hover{
