@@ -8,7 +8,6 @@ Tienda de E-Commerce local para venta de productos utilizables dentro del C.E.C.
 * ~~Desarrollo de analisis, informe y propuesta (Revisar presentaciones de Edmodo) - **Liszeth**~~
 * Reacomodar (centrar) barra de navegacion
 * Reacomodar pop-up de inicio de sesion
-* Diseñar un Logo
 * Hacer conexion a base de datos
 * Diseñar un logo
 
