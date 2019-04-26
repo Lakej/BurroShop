@@ -1,4 +1,4 @@
-# BurroShop (Descontinuado, checar la v3)
+# BurroShop (Descontinuado, checar la version -cli)
 Tienda de E-Commerce local para venta de productos utilizables dentro del C.E.C.y T. No.8 "Narciso Bassols"
 ## Actividades a realizar
 * ~~Cambiar de color la intrefaz (Blanco -> Guinda) - **Mario y King**~~
